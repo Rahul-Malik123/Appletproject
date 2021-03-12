@@ -1,5 +1,6 @@
-import java.awt.*;
-import java.applet.*;
+import java.applet.Applet;
+import java.applet.*; 
+import java.awt.Graphics; 
 import java.util.Calendar;
 import java.math.*;
 import java.awt.event.*; 
