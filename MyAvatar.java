@@ -1,5 +1,7 @@
-import java.awt.*;
 import java.applet.Applet;
+import java.applet.*; 
+import java.awt.Graphics; 
+import java.awt.Color;
 
 /* Author: Médéric Blandin
  * 
