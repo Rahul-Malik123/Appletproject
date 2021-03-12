@@ -46,7 +46,7 @@ public class MyAvatar extends Applet {
 		
 		Color noisette = new Color (149, 86, 40);
 		
-		/*//Creation of eyes
+		//Creation of eyes
 		//Ocular Glob
 		g.setColor(Color.WHITE);
 		g.fillOval(d.width/2+15-170,d.height/2+50-140,60,50);
@@ -60,7 +60,7 @@ public class MyAvatar extends Applet {
 		g.setColor(Color.BLACK);
 		g.fillOval(d.width/2+22-168,d.height/2+55-138,16,16);
 		g.fillOval(d.width/2+123-60,d.height/2+55-138,16,16);
-		*/
+		
 		
 		//Nose
 		g.setColor(skin.darker());
